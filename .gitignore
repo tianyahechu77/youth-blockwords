@@ -1,0 +1,11 @@
+# 临时文件
+*.png
+*.jpg
+*.xml
+*.log
+*.apk
+*.tmp
+
+# 本地设备导出物，勿提交
+screen*.png
+*uia*.xml
